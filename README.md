@@ -11,4 +11,4 @@ Power BI, DAX, Power Query, Key Influencers visual, Decomposition Tree
 - Date-wise trends highlight seasonality in sales
 
 ## Dashboard Preview
-![Power BI Dashboard](Screenshot 2026-10-29 214047.png)
+![Power BI Dashboard](power-bi-dashboard.png)
